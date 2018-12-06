@@ -8,6 +8,7 @@ You can run the app by node index.js or NODE_ENV=staging node index.js
 Following APIs are defined
 
 /////////// Login /////////
+
 POST: localhost:3000/login 
 Data: {email: '', password: ''}
 
